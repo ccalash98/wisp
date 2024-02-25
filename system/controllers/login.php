@@ -1,10 +1,5 @@
 <?php
 
-/**
- * PHP Mikrotik Billing (https://ibnux.github.io/phpmixbill/)
-
- **/
-
 if (isset($routes['1'])) {
     $do = $routes['1'];
 } else {
