@@ -1,8 +1,4 @@
 <?php
-/**
-* PHP Mikrotik Billing (https://ibnux.github.io/phpmixbill/)
-**/
-
 require('../config.php');
 require('orm.php');
 
