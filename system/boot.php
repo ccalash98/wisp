@@ -1,9 +1,4 @@
 <?php
-
-/**
- * PHP Mikrotik Billing (https://ibnux.github.io/phpmixbill/)
-
- **/
 session_start();
 function r2($to, $ntype = 'e', $msg = '')
 {
